@@ -29,6 +29,6 @@ trigger/echo pins and output data over UART serial communication on Linux (Pop!_
 5. Data viewable via Arduino Serial Monitor
 
 ## Demo
-[Video coming soon]
+![Demo](images/demo.gif)
 
 
